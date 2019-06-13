@@ -1,0 +1,21 @@
+{
+  "name": "i-have-opinions",
+  "version": "0.1.0",
+  "main": "dist/i-have-opinions.cjs.js",
+  "module": "dist/i-have-opinions.esm.js",
+  "license": "MIT",
+  "files": [
+    "src",
+    "dist"
+  ],
+  "devDependencies": {
+    "preconstruct": "^0.0.79",
+    "react": "^16.8.6"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.10"
+  }
+}
