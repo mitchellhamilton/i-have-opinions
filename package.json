@@ -1,6 +1,6 @@
 {
   "name": "i-have-opinions",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/i-have-opinions.cjs.js",
   "module": "dist/i-have-opinions.esm.js",
   "repository": "https://github.com/mitchellhamilton/i-have-opinions",
